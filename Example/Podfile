@@ -7,4 +7,4 @@ platform :ios, '8.0'
 xcodeproj 'Example/Example.xcodeproj'
 link_with 'Example'
 
-pod "SwaggerClient", :path => ".."
+pod “sdk”, :path => ".."

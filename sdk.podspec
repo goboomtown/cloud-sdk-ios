@@ -8,7 +8,7 @@
 #
 
 Pod::Spec.new do |s|
-    s.name             = "cloud-sdk-ios"
+    s.name             = "sdk"
     s.version          = "1.0.0"
 
     s.summary          = "Boomtown Cloud API"
