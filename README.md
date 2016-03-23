@@ -10,6 +10,8 @@ Authentication is used using a pre-shared key and secret, which is generated in 
 To get started:
  - Clone this repository
  - Generate API keys from the Boomtown Admin Portal
+ - Drag the `sdk` folder into your project
+ - The sdk has dependencies of AFNetworking, JSONModel, and ISO8601. They can be installed manually (or with sdk.podspec if you use CocoaPods)
  - Configure the API keys in your application
 
 ## API Key Generation
@@ -30,5 +32,5 @@ Prior to using the API, you must configure APIClient.m sources with the generate
  - Set `[SWGConfiguration sharedConfig].apiSecret` equal to the private-key generated in the Admin Portal.
 
 ## Examples
-See `Example` for examples interfacing with the API.
+See `Example` for examples interfacing with the API. To get you up and running quickly we have included AFNetworking, JSONModel, and ISO8601, though you should obtain these yourself for your own projects.
 
