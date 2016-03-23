@@ -1,0 +1,1 @@
+../../../../../SwaggerClient/SWGMemberCreateRequest.h
