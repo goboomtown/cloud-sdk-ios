@@ -1,1 +1,0 @@
-../../../../../SwaggerClient/SWGMember.h

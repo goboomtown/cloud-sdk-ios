@@ -1,1 +1,0 @@
-../../../../../SwaggerClient/SWGProvider.h

@@ -1,1 +1,0 @@
-../../../../../SwaggerClient/SWGIssuesMetadataApi.h
