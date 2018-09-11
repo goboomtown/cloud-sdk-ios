@@ -1,4 +1,4 @@
-# cloud-sdk-ios: Boomtown Provider API (iOS)
+# (DEPRECATED) cloud-sdk-ios: Boomtown Provider API (iOS)
 iOS SDK for the Boomtown Cloud API.
 
 This API has been deprecated. Please refer instead to:
